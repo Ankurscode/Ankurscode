@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ankur yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ankur yadav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankur yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ankur-yadav-747933246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankur-yadav-747933246" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:27383657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27383657" height="30" width="40" /></a>
 <a href="https://instagram.com/ankur_yadav089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur_yadav089" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ankurscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankurscode" height="30" width="40" /></a>
@@ -37,5 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurscode&show_icons=true&locale=en" alt="ankurscode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurscode&" alt="ankurscode" /></p>
-
 
